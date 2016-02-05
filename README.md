@@ -1,2 +1,2 @@
 # spete
-first repository
+Learning GitHub
